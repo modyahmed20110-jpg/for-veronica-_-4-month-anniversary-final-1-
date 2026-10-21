@@ -1,0 +1,6 @@
+{
+  "name": "For Veronica | 4-Month Anniversary Keepsake",
+  "description": "A soft, romantic floral keepsake web app for Veronica celebrating 4 months of beautiful memories and love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
